@@ -8,7 +8,7 @@
 
 
 ## Ingredients
-- 8 pack of Indomie noodles (any flavor)
+- 4 pack of Indomie noodles (any flavor)
 - 2 cups of water
 - Optional add-ins:
   - Egg
