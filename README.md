@@ -1,14 +1,11 @@
 # Indomie Noodles Cooking Guide
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Ingredients](#ingredients)
-3. [Equipment Needed](#equipment-needed)
-4. [Instructions](#instructions)
-5. [Tips and Variations](#tips-and-variations)
+1. [Ingredients](#ingredients)
+2. [Equipment Needed](#equipment-needed)
+3. [Instructions](#instructions)
+4. [Tips and Variations](#tips-and-variations)
 
-## Introduction
-Indomie noodles are a popular and quick meal option for students at the University of Ibadan. This guide will help you prepare a delicious bowl of Indomie noodles in no time, allowing you to focus on your studies while enjoying a tasty dish.
 
 ## Ingredients
 - 8 pack of Indomie noodles (any flavor)
