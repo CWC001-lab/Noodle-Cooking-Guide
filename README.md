@@ -6,7 +6,6 @@
 3. [Equipment Needed](#equipment-needed)
 4. [Instructions](#instructions)
 5. [Tips and Variations](#tips-and-variations)
-6. [Conclusion](#conclusion)
 
 ## Introduction
 Indomie noodles are a popular and quick meal option for students at the University of Ibadan. This guide will help you prepare a delicious bowl of Indomie noodles in no time, allowing you to focus on your studies while enjoying a tasty dish.
